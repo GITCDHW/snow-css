@@ -13,6 +13,10 @@
   margin:5px;
   padding:15px;
 }
+.cnt{
+  display:grid;
+  place-items:center;
+}
 /*style for backgrounds*/
 .primary-bg{
   background:var(--primary);
