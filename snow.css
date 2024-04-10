@@ -27,6 +27,14 @@ image sizes
   height:300px;
   width:300px;
 }
+/*intro-animation*/
+.animation-fadein{
+  animation:fadein 2s;
+}
+@keyframes fadein{
+  0%{opacity:0%;}
+  100%{opacity:100%;}
+}
 /*style for containers*/
 .container{
   margin:5px;
