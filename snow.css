@@ -8,6 +8,25 @@
   --dark:#343A40;
   --light:#f8f9fa;
 }
+/*
+image sizes
+*/
+.img-s{
+  height:70px;
+  width:70px;
+}
+.img-m{
+  height:150px;
+  width:150px;
+}
+.img-l{
+  height:200px;
+  width:200px;
+}
+.img-xl{
+  height:300px;
+  width:300px;
+}
 /*style for containers*/
 .container{
   margin:5px;
